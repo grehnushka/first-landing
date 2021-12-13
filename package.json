@@ -1,0 +1,12 @@
+{
+  "name": "landie",
+  "version": "0.0.1",
+  "description": "Learning html, css, javascript",
+  "author": "Ekaterina Grehneva",
+  "scripts": {
+    "watch:styles": "sass --watch styles/scss:styles/css"
+  },
+  "devDependencies": {
+    "sass": "^1.45.0"
+  }
+}

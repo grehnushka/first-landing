@@ -1,0 +1,36 @@
+// Colors
+$bg: #F0F0F0;
+$bg-gray: #FBFBFD;
+$logo: #37447E;
+$white: #FFFFFF;
+$black: #000000;
+$gray-900: #141719;
+$gray-800: #393E41;
+$gray-700: #454E54;
+$gray-600: #5D6970;
+$gray-500: #76848C;
+$gray-400: #939EA4;
+$gray-300: #B0B8BC;
+$gray-200: #CDD1D4;
+$gray-100: #E9EBEC;
+$blue-900: #091133;
+$blue-800: #111B47;
+$blue-700: #222F65;
+$blue-600: #37447E;
+$blue-500: #505F98;
+$blue-400: #6F7CB2;
+$blue-300: #929ECC;
+$blue-200: #BAC3E5;
+$blue-100: #E7ECFF;
+$yellow-500: #FFD166;
+$yellow-400: #FEDC8C;
+$yellow-300: #FDE7B3;
+$yellow-200: #FFF2D2;
+$yellow-100: #FFF6E0;
+
+
+//Mixins
+@mixin content {
+  width: 1110px;
+  margin: 0 auto;
+}
